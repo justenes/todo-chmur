@@ -17,7 +17,7 @@ git clone https://github.com/justenes/todo-chmur.git
 
 ### Przejdź do katalogu projektu
 ```
-cd todo-mern-docker
+cd todo-chmur
 ```
 
 ### Uruchom projekt za pomocą Dockera
